@@ -1,6 +1,6 @@
 ## Ermogenes Palacio ☕
 - 🐱‍👤 Dev/Software Engineer @ https://www.prefeitura.sp.gov.br/cidade/secretarias/inovacao/prodam/
-- 🦉 Curriculum_ Specialist @ https://www.cps.sp.gov.br/
+- 🦉 _Curriculum_ Specialist @ https://www.cps.sp.gov.br/
 - 👨🏻‍🏫 Teacher @ http://eteab.com.br/
 - 📍 Santos, São Paulo, Brazil
 
@@ -15,18 +15,3 @@ Senior Software Engineer and Teacher in Professional and Superior Education with
 📫 How to reach me:
 
 [GitHub](https://github.com/ermogenes) | [LinkedIn](https://www.linkedin.com/in/ermogenes/) | [Twitter](http://twitter.com/ermogenes)
-
-
-<!--
-**ermogenes/ermogenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
--->
