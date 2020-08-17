@@ -8,9 +8,9 @@ Senior Software Engineer and Teacher in Professional and Superior Education with
 
 [Microsoft Certified: Azure AI Engineer Associate](https://www.youracclaim.com/badges/61de0d9e-076e-42f9-87fc-118897772d79/linked_in)
 
-🔭 Dev C#: A side project with free content for portuguese speakers learning to code
+🔭 Dev C# + Dev Web: side projects with free content for portuguese speakers learning to code
 
-[YouTube](https://www.youtube.com/channel/UCeRLqYFNV2wPBclJLzbJ2Fw) | [Site](https://ermogenes.github.io/aulas-programacao-csharp/) | [GitHub repo](https://github.com/ermogenes/aulas-programacao-csharp/)
+[YouTube Channel](https://www.youtube.com/channel/UCeRLqYFNV2wPBclJLzbJ2Fw) | [C# - site](https://ermogenes.github.io/aulas-programacao-csharp/) | [C# GitHub repo](https://github.com/ermogenes/aulas-programacao-csharp/) | [Web - Site](https://ermogenes.github.io/aulas-programacao-web/) | [Web - GitHub repo](https://github.com/ermogenes/aulas-programacao-web)
 
 📫 How to reach me:
 
