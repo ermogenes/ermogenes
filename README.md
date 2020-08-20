@@ -10,7 +10,7 @@ Senior Software Engineer and Teacher in Professional and Superior Education with
 
 🔭 Dev C# + Dev Web: side projects with free content for portuguese speakers learning to code
 
-[YouTube Channel](https://www.youtube.com/channel/UCeRLqYFNV2wPBclJLzbJ2Fw) | [C# - site](https://ermogenes.github.io/aulas-programacao-csharp/) | [C# GitHub repo](https://github.com/ermogenes/aulas-programacao-csharp/) | [Web - Site](https://ermogenes.github.io/aulas-programacao-web/) | [Web - GitHub repo](https://github.com/ermogenes/aulas-programacao-web)
+[YouTube Channel](https://www.youtube.com/channel/UCeRLqYFNV2wPBclJLzbJ2Fw) | [C# - site](https://ermogenes.github.io/aulas-programacao-csharp/) | [C# - GitHub repo](https://github.com/ermogenes/aulas-programacao-csharp/) | [Web - Site](https://ermogenes.github.io/aulas-programacao-web/) | [Web - GitHub repo](https://github.com/ermogenes/aulas-programacao-web)
 
 📫 How to reach me:
 
