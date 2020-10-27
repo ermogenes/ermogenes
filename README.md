@@ -6,7 +6,8 @@
 
 Senior Software Engineer and Teacher in Professional and Superior Education with 20y+ experience. Dev since childhood.
 
-[Microsoft Certified: Azure AI Engineer Associate](https://www.youracclaim.com/badges/61de0d9e-076e-42f9-87fc-118897772d79/linked_in)
+- [Microsoft Certified: ⭐ Azure Fundamentals](https://www.youracclaim.com/badges/6380b971-e8f4-4757-a4ab-4cc1a52f95f3/public_url)
+- [Microsoft Certified: ⭐⭐ Azure AI Engineer Associate](https://www.youracclaim.com/badges/61de0d9e-076e-42f9-87fc-118897772d79/public_url)
 
 🔭 Dev C# + Dev Web: side projects with free content for portuguese speakers learning to code
 
