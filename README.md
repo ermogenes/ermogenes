@@ -8,7 +8,7 @@ Senior Software Engineer and Teacher in Professional and Superior Education with
 
 - [Microsoft Certified: ⭐ Azure Fundamentals](https://www.youracclaim.com/badges/6380b971-e8f4-4757-a4ab-4cc1a52f95f3/public_url)
 - [Microsoft Certified: ⭐⭐ Azure AI Engineer Associate](https://www.youracclaim.com/badges/61de0d9e-076e-42f9-87fc-118897772d79/public_url)
-- [GoStack](https://gostack.rocketseat.com.br/11/ermogenes-palacio-1585174714)
+- [🚀 GoStack](https://gostack.rocketseat.com.br/11/ermogenes-palacio-1585174714)
 
 🔭 Dev C# + Dev Web: side projects with free content for portuguese speakers learning to code
 
