@@ -4,7 +4,7 @@
 - 👨🏻‍🏫 Teacher @ http://eteab.com.br/
 - Microsoft Certified: [⭐ Azure Fundamentals](https://www.youracclaim.com/badges/6380b971-e8f4-4757-a4ab-4cc1a52f95f3/public_url) [⭐⭐ Azure AI Engineer Associate](https://www.youracclaim.com/badges/61de0d9e-076e-42f9-87fc-118897772d79/public_url)
 - 📍 Santos, São Paulo, Brazil
-- [GitHub](https://github.com/ermogenes) | [LinkedIn](https://www.linkedin.com/in/ermogenes/) | [YouTube](https://www.youtube.com/channel/UCeRLqYFNV2wPBclJLzbJ2Fw) | [Twitter](http://twitter.com/ermogenes)
+- [GitHub](https://github.com/ermogenes) | [LinkedIn](https://www.linkedin.com/in/ermogenes/) | [YouTube](https://www.youtube.com/channel/UCeRLqYFNV2wPBclJLzbJ2Fw) | [Twitter](http://twitter.com/ermogenes) | [NuGet](https://www.nuget.org/profiles/ermogenes)
 
 Senior Software Engineer and Teacher in Professional and Superior Education with 20y+ experience. Dev since childhood.
 
