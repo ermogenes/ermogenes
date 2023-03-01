@@ -3,7 +3,6 @@
 - _Curriculum_ Specialist @ https://www.cps.sp.gov.br/
 - Teacher @ http://eteab.com.br/
 - 📍 Santos, São Paulo, Brazil
-- [GitHub](https://github.com/ermogenes) | [LinkedIn](https://www.linkedin.com/in/ermogenes/) | [YouTube](https://www.youtube.com/channel/UCeRLqYFNV2wPBclJLzbJ2Fw) | [Twitter](http://twitter.com/ermogenes) | [NuGet](https://www.nuget.org/profiles/ermogenes)
 
 Senior Software Engineer and Teacher in Professional and Superior Education with 20y+ experience. Dev since childhood.
 
