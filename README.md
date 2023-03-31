@@ -2,7 +2,6 @@
 - Software Engineer @ https://portal.prodam.sp.gov.br/
 - _Curriculum_ Specialist @ https://www.cps.sp.gov.br/
 - Teacher @ http://eteab.com.br/
-- 📍 Santos, São Paulo, Brazil
 
 Senior Software Engineer and Teacher in Professional and Superior Education with 20y+ experience. Dev since childhood.
 
