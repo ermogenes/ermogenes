@@ -3,7 +3,7 @@
 - _Curriculum_ Specialist @ https://www.cps.sp.gov.br/
 - Teacher @ http://eteab.com.br/
 
-Senior Software Engineer and Teacher in Professional and Superior Education with 20y+ experience. Dev since childhood.
+Senior Software Engineer and Teacher in Professional and Superior Education with 30y+ experience. Dev since childhood.
 
 [![](./aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/659c34d2-eb45-461d-bf01-a8f0bd29bacc/public_url) [![](./microsoft-certified-azure-fundamentals.png)](https://www.credly.com/badges/6380b971-e8f4-4757-a4ab-4cc1a52f95f3/public_url) [![](./microsoft-certified-azure-ai-engineer-associate.png)](https://www.credly.com/badges/1b4ea5af-c2ab-4061-9b32-468a75927fcb/public_url)
 
